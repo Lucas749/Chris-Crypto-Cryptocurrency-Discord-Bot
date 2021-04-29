@@ -108,7 +108,7 @@ async def on_message(message):
         embed = discord.Embed(title="Help on Crypto Chris", description="Some useful commands")
         embed.add_field(name="!help", value="returns all bot functions")
         embed.add_field(name="!motivation", value="cheers you up with a motivational crypto quote")
-        embed.add_field(name="!watch", value="add coins to watchlist. Use command '!watch [coin1,coin2']")
+        embed.add_field(name="!watch", value="add coins to watchlist. Use command '!watch [coin1,coin2]'")
         embed.add_field(name="!coinwatch", value="returns coins on watchlist")
         embed.add_field(name="!coinupdate", value="returns market update on watchlisted coins")
         embed.add_field(name="!quote",
