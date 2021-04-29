@@ -19,4 +19,4 @@ Chris Crypto is a discord bot that provides crypto market updates and let's you 
 **!latest** returns X latest added coins. Use command '!latest [X]' \
 **!calc** returns calculation result. Use command '!calc [X*Y]' \
 **!portfolio** add user's portfolio data in order to calculate the performance. Use command '!portfolio coins=[coin1, coin2] amount=[amount1, amount2] entry=[entry1,entry2]' \
-**!profit** returns user's portfolio performance \
+**!profit** returns user's portfolio performance
