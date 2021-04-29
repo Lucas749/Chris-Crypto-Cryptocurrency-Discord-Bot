@@ -1,6 +1,10 @@
 # Chris-Crypto-Cryptocurrency-Discord-Bot
 Chris Crypto is a discord bot that provides crypto market updates and let's you monitor coins and your portfolio. Market data is downloaded from CoinMarketCap via their [API](https://coinmarketcap.com/api/).
 
+<p align="center">
+  <img width="600" height="336" src="https://github.com/Lucas749/Chris-Crypto-Cryptocurrency-Discord-Bot/blob/master/Demonstration/Chris%20Crypto%20Demonstration.gif">
+</p>
+
 # File Overview
 1. bot.py - Main discord bot handling
 2. functions.py - Provides functions used by the bot (e.g. downloading market data)
